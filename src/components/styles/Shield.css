@@ -1,0 +1,10 @@
+#shield{
+	z-index: 1;
+	overflow: hidden;
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	outline: 0;
+	/*background: red;*/
+	display: block;
+}

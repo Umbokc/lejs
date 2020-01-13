@@ -1,7 +1,11 @@
-import DomTree from './DomTree.svelte'
-import Styles from './Styles.svelte'
+import {DomTree} from './DomTree'
+import Styles from './Styles'
+import {Shield} from './Shield'
+import {Iframe} from './Iframe'
 
 export {
   DomTree,
-  Styles
+  Shield,
+  Styles,
+  Iframe,
 }
